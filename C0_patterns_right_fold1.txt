@@ -1,0 +1,2612 @@
+*****************
+states:
+(SystolicBP,VL)
+relation:
+o 
+
+length of the RTP List:85
+length of the possible RTP List:85
+*****************
+*****************
+states:
+(SystolicBP,L)
+relation:
+o 
+
+length of the RTP List:164
+length of the possible RTP List:164
+*****************
+*****************
+states:
+(SystolicBP,N)
+relation:
+o 
+
+length of the RTP List:393
+length of the possible RTP List:393
+*****************
+*****************
+states:
+(SystolicBP,H)
+relation:
+o 
+
+length of the RTP List:179
+length of the possible RTP List:179
+*****************
+*****************
+states:
+(SystolicBP,VH)
+relation:
+o 
+
+length of the RTP List:75
+length of the possible RTP List:75
+*****************
+*****************
+states:
+(DiastolicBP,VL)
+relation:
+o 
+
+length of the RTP List:85
+length of the possible RTP List:85
+*****************
+*****************
+states:
+(DiastolicBP,L)
+relation:
+o 
+
+length of the RTP List:163
+length of the possible RTP List:163
+*****************
+*****************
+states:
+(DiastolicBP,N)
+relation:
+o 
+
+length of the RTP List:402
+length of the possible RTP List:402
+*****************
+*****************
+states:
+(DiastolicBP,H)
+relation:
+o 
+
+length of the RTP List:209
+length of the possible RTP List:209
+*****************
+*****************
+states:
+(DiastolicBP,VH)
+relation:
+o 
+
+length of the RTP List:105
+length of the possible RTP List:105
+*****************
+*****************
+states:
+(HeartRate,VL)
+relation:
+o 
+
+length of the RTP List:105
+length of the possible RTP List:105
+*****************
+*****************
+states:
+(HeartRate,L)
+relation:
+o 
+
+length of the RTP List:211
+length of the possible RTP List:211
+*****************
+*****************
+states:
+(HeartRate,N)
+relation:
+o 
+
+length of the RTP List:387
+length of the possible RTP List:387
+*****************
+*****************
+states:
+(HeartRate,H)
+relation:
+o 
+
+length of the RTP List:121
+length of the possible RTP List:121
+*****************
+*****************
+states:
+(RespiratoryRate,VL)
+relation:
+o 
+
+length of the RTP List:114
+length of the possible RTP List:114
+*****************
+*****************
+states:
+(RespiratoryRate,L)
+relation:
+o 
+
+length of the RTP List:241
+length of the possible RTP List:241
+*****************
+*****************
+states:
+(RespiratoryRate,N)
+relation:
+o 
+
+length of the RTP List:457
+length of the possible RTP List:457
+*****************
+*****************
+states:
+(RespiratoryRate,H)
+relation:
+o 
+
+length of the RTP List:125
+length of the possible RTP List:125
+*****************
+*****************
+states:
+(Temperature,L)
+relation:
+o 
+
+length of the RTP List:157
+length of the possible RTP List:157
+*****************
+*****************
+states:
+(Temperature,N)
+relation:
+o 
+
+length of the RTP List:381
+length of the possible RTP List:381
+*****************
+*****************
+states:
+(Temperature,H)
+relation:
+o 
+
+length of the RTP List:215
+length of the possible RTP List:215
+*****************
+*****************
+states:
+(Temperature,VH)
+relation:
+o 
+
+length of the RTP List:72
+length of the possible RTP List:72
+*****************
+*****************
+states:
+(PulseOx,L)
+relation:
+o 
+
+length of the RTP List:164
+length of the possible RTP List:164
+*****************
+*****************
+states:
+(PulseOx,N)
+relation:
+o 
+
+length of the RTP List:419
+length of the possible RTP List:419
+*****************
+*****************
+states:
+(PulseOx,H)
+relation:
+o 
+
+length of the RTP List:152
+length of the possible RTP List:152
+*****************
+*****************
+states:
+(PulseOx,VH)
+relation:
+o 
+
+length of the RTP List:161
+length of the possible RTP List:161
+*****************
+*****************
+states:
+(BUN,VL)
+relation:
+o 
+
+length of the RTP List:70
+length of the possible RTP List:70
+*****************
+*****************
+states:
+(BUN,L)
+relation:
+o 
+
+length of the RTP List:140
+length of the possible RTP List:140
+*****************
+*****************
+states:
+(BUN,N)
+relation:
+o 
+
+length of the RTP List:220
+length of the possible RTP List:220
+*****************
+*****************
+states:
+(WBC,L)
+relation:
+o 
+
+length of the RTP List:129
+length of the possible RTP List:129
+*****************
+*****************
+states:
+(WBC,N)
+relation:
+o 
+
+length of the RTP List:262
+length of the possible RTP List:262
+*****************
+*****************
+states:
+(Lactate,N)
+relation:
+o 
+
+length of the RTP List:99
+length of the possible RTP List:99
+*****************
+*****************
+states:
+(Platelet,N)
+relation:
+o 
+
+length of the RTP List:291
+length of the possible RTP List:291
+*****************
+*****************
+states:
+(Platelet,H)
+relation:
+o 
+
+length of the RTP List:96
+length of the possible RTP List:96
+*****************
+*****************
+states:
+(Creatinine,L)
+relation:
+o 
+
+length of the RTP List:114
+length of the possible RTP List:114
+*****************
+*****************
+states:
+(Creatinine,N)
+relation:
+o 
+
+length of the RTP List:294
+length of the possible RTP List:294
+*****************
+*****************
+states:
+(MAP,VL)
+relation:
+o 
+
+length of the RTP List:90
+length of the possible RTP List:90
+*****************
+*****************
+states:
+(MAP,L)
+relation:
+o 
+
+length of the RTP List:157
+length of the possible RTP List:157
+*****************
+*****************
+states:
+(MAP,N)
+relation:
+o 
+
+length of the RTP List:366
+length of the possible RTP List:366
+*****************
+*****************
+states:
+(MAP,H)
+relation:
+o 
+
+length of the RTP List:181
+length of the possible RTP List:181
+*****************
+*****************
+states:
+(MAP,VH)
+relation:
+o 
+
+length of the RTP List:96
+length of the possible RTP List:96
+*****************
+*****************
+states:
+(BiliRubin,N)
+relation:
+o 
+
+length of the RTP List:139
+length of the possible RTP List:139
+*****************
+*****************
+states:
+(OxygenFlow,N)
+relation:
+o 
+
+length of the RTP List:152
+length of the possible RTP List:152
+*****************
+*****************
+states:
+(InfectFlag,1)
+relation:
+o 
+
+length of the RTP List:422
+length of the possible RTP List:422
+*****************
+*****************
+states:
+(InflammationFlag,0)
+relation:
+o 
+
+length of the RTP List:280
+length of the possible RTP List:280
+*****************
+*****************
+states:
+(InflammationFlag,1)
+relation:
+o 
+
+length of the RTP List:287
+length of the possible RTP List:287
+*****************
+*****************
+states:
+(OrganFailure,1)
+relation:
+o 
+
+length of the RTP List:219
+length of the possible RTP List:219
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+relation:
+o 
+
+length of the RTP List:150
+length of the possible RTP List:150
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+relation:
+o 
+
+length of the RTP List:381
+length of the possible RTP List:381
+*****************
+*****************
+states:
+(SystolicBP,N)
+(SystolicBP,L)
+relation:
+o b 
+o o 
+
+length of the RTP List:68
+length of the possible RTP List:160
+*****************
+*****************
+states:
+(RespiratoryRate,N)
+(SystolicBP,L)
+relation:
+o c 
+o o 
+
+length of the RTP List:68
+length of the possible RTP List:163
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(SystolicBP,L)
+relation:
+o c 
+o o 
+
+length of the RTP List:71
+length of the possible RTP List:136
+*****************
+*****************
+states:
+(SystolicBP,N)
+(SystolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:133
+length of the possible RTP List:393
+*****************
+*****************
+states:
+(SystolicBP,H)
+(SystolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:98
+length of the possible RTP List:208
+*****************
+*****************
+states:
+(DiastolicBP,N)
+(SystolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:109
+length of the possible RTP List:371
+*****************
+*****************
+states:
+(DiastolicBP,N)
+(SystolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:111
+length of the possible RTP List:371
+*****************
+*****************
+states:
+(HeartRate,N)
+(SystolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:85
+length of the possible RTP List:361
+*****************
+*****************
+states:
+(HeartRate,N)
+(SystolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:113
+length of the possible RTP List:361
+*****************
+*****************
+states:
+(RespiratoryRate,L)
+(SystolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:76
+length of the possible RTP List:298
+*****************
+*****************
+states:
+(RespiratoryRate,N)
+(SystolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:105
+length of the possible RTP List:382
+*****************
+*****************
+states:
+(RespiratoryRate,N)
+(SystolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:100
+length of the possible RTP List:382
+*****************
+*****************
+states:
+(Temperature,N)
+(SystolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:74
+length of the possible RTP List:351
+*****************
+*****************
+states:
+(Temperature,N)
+(SystolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:102
+length of the possible RTP List:351
+*****************
+*****************
+states:
+(PulseOx,N)
+(SystolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:93
+length of the possible RTP List:372
+*****************
+*****************
+states:
+(PulseOx,N)
+(SystolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:89
+length of the possible RTP List:372
+*****************
+*****************
+states:
+(PulseOx,H)
+(SystolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:69
+length of the possible RTP List:232
+*****************
+*****************
+states:
+(BUN,N)
+(SystolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:73
+length of the possible RTP List:216
+*****************
+*****************
+states:
+(WBC,N)
+(SystolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:80
+length of the possible RTP List:246
+*****************
+*****************
+states:
+(Platelet,N)
+(SystolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:87
+length of the possible RTP List:253
+*****************
+*****************
+states:
+(Creatinine,N)
+(SystolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:93
+length of the possible RTP List:266
+*****************
+*****************
+states:
+(MAP,N)
+(SystolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:78
+length of the possible RTP List:355
+*****************
+*****************
+states:
+(MAP,N)
+(SystolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:112
+length of the possible RTP List:355
+*****************
+*****************
+states:
+(InfectFlag,1)
+(SystolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:90
+length of the possible RTP List:343
+*****************
+*****************
+states:
+(InflammationFlag,0)
+(SystolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:68
+length of the possible RTP List:285
+*****************
+*****************
+states:
+(InflammationFlag,1)
+(SystolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:80
+length of the possible RTP List:280
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(SystolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:67
+length of the possible RTP List:339
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(SystolicBP,N)
+relation:
+o p 
+o o 
+
+length of the RTP List:86
+length of the possible RTP List:339
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(SystolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:129
+length of the possible RTP List:316
+*****************
+*****************
+states:
+(RespiratoryRate,N)
+(SystolicBP,H)
+relation:
+o c 
+o o 
+
+length of the RTP List:73
+length of the possible RTP List:172
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(DiastolicBP,L)
+relation:
+o c 
+o o 
+
+length of the RTP List:67
+length of the possible RTP List:132
+*****************
+*****************
+states:
+(DiastolicBP,N)
+(DiastolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:124
+length of the possible RTP List:402
+*****************
+*****************
+states:
+(DiastolicBP,H)
+(DiastolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:94
+length of the possible RTP List:240
+*****************
+*****************
+states:
+(HeartRate,N)
+(DiastolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:83
+length of the possible RTP List:373
+*****************
+*****************
+states:
+(HeartRate,N)
+(DiastolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:109
+length of the possible RTP List:373
+*****************
+*****************
+states:
+(RespiratoryRate,L)
+(DiastolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:86
+length of the possible RTP List:313
+*****************
+*****************
+states:
+(RespiratoryRate,N)
+(DiastolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:106
+length of the possible RTP List:390
+*****************
+*****************
+states:
+(RespiratoryRate,N)
+(DiastolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:106
+length of the possible RTP List:390
+*****************
+*****************
+states:
+(Temperature,N)
+(DiastolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:77
+length of the possible RTP List:361
+*****************
+*****************
+states:
+(Temperature,N)
+(DiastolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:106
+length of the possible RTP List:361
+*****************
+*****************
+states:
+(PulseOx,N)
+(DiastolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:100
+length of the possible RTP List:383
+*****************
+*****************
+states:
+(PulseOx,N)
+(DiastolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:102
+length of the possible RTP List:383
+*****************
+*****************
+states:
+(PulseOx,VH)
+(DiastolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:69
+length of the possible RTP List:241
+*****************
+*****************
+states:
+(BUN,N)
+(DiastolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:73
+length of the possible RTP List:226
+*****************
+*****************
+states:
+(WBC,N)
+(DiastolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:77
+length of the possible RTP List:257
+*****************
+*****************
+states:
+(Platelet,N)
+(DiastolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:85
+length of the possible RTP List:259
+*****************
+*****************
+states:
+(Creatinine,N)
+(DiastolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:98
+length of the possible RTP List:278
+*****************
+*****************
+states:
+(MAP,N)
+(DiastolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:89
+length of the possible RTP List:368
+*****************
+*****************
+states:
+(MAP,N)
+(DiastolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:129
+length of the possible RTP List:368
+*****************
+*****************
+states:
+(MAP,H)
+(DiastolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:78
+length of the possible RTP List:220
+*****************
+*****************
+states:
+(InfectFlag,1)
+(DiastolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:96
+length of the possible RTP List:349
+*****************
+*****************
+states:
+(InflammationFlag,0)
+(DiastolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:73
+length of the possible RTP List:296
+*****************
+*****************
+states:
+(InflammationFlag,1)
+(DiastolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:75
+length of the possible RTP List:288
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(DiastolicBP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:71
+length of the possible RTP List:346
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(DiastolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:72
+length of the possible RTP List:346
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(DiastolicBP,N)
+relation:
+o p 
+o o 
+
+length of the RTP List:68
+length of the possible RTP List:346
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(DiastolicBP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:135
+length of the possible RTP List:323
+*****************
+*****************
+states:
+(HeartRate,N)
+(DiastolicBP,H)
+relation:
+o c 
+o o 
+
+length of the RTP List:70
+length of the possible RTP List:190
+*****************
+*****************
+states:
+(RespiratoryRate,N)
+(DiastolicBP,H)
+relation:
+o c 
+o o 
+
+length of the RTP List:79
+length of the possible RTP List:202
+*****************
+*****************
+states:
+(Temperature,N)
+(DiastolicBP,H)
+relation:
+o c 
+o o 
+
+length of the RTP List:80
+length of the possible RTP List:188
+*****************
+*****************
+states:
+(MAP,H)
+(DiastolicBP,H)
+relation:
+o c 
+o o 
+
+length of the RTP List:74
+length of the possible RTP List:167
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(DiastolicBP,H)
+relation:
+o c 
+o o 
+
+length of the RTP List:87
+length of the possible RTP List:166
+*****************
+*****************
+states:
+(HeartRate,N)
+(HeartRate,L)
+relation:
+o b 
+o o 
+
+length of the RTP List:76
+length of the possible RTP List:188
+*****************
+*****************
+states:
+(RespiratoryRate,N)
+(HeartRate,L)
+relation:
+o c 
+o o 
+
+length of the RTP List:75
+length of the possible RTP List:207
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(HeartRate,L)
+relation:
+o c 
+o o 
+
+length of the RTP List:89
+length of the possible RTP List:183
+*****************
+*****************
+states:
+(HeartRate,N)
+(HeartRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:102
+length of the possible RTP List:387
+*****************
+*****************
+states:
+(HeartRate,H)
+(HeartRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:81
+length of the possible RTP List:195
+*****************
+*****************
+states:
+(RespiratoryRate,L)
+(HeartRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:70
+length of the possible RTP List:296
+*****************
+*****************
+states:
+(RespiratoryRate,N)
+(HeartRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:75
+length of the possible RTP List:377
+*****************
+*****************
+states:
+(RespiratoryRate,N)
+(HeartRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:87
+length of the possible RTP List:377
+*****************
+*****************
+states:
+(Temperature,N)
+(HeartRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:69
+length of the possible RTP List:349
+*****************
+*****************
+states:
+(Temperature,N)
+(HeartRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:85
+length of the possible RTP List:349
+*****************
+*****************
+states:
+(PulseOx,N)
+(HeartRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:72
+length of the possible RTP List:370
+*****************
+*****************
+states:
+(PulseOx,N)
+(HeartRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:79
+length of the possible RTP List:370
+*****************
+*****************
+states:
+(Platelet,N)
+(HeartRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:73
+length of the possible RTP List:239
+*****************
+*****************
+states:
+(Creatinine,N)
+(HeartRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:72
+length of the possible RTP List:263
+*****************
+*****************
+states:
+(InfectFlag,1)
+(HeartRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:88
+length of the possible RTP List:341
+*****************
+*****************
+states:
+(InfectFlag,1)
+(HeartRate,N)
+relation:
+o p 
+o o 
+
+length of the RTP List:71
+length of the possible RTP List:341
+*****************
+*****************
+states:
+(InflammationFlag,1)
+(HeartRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:69
+length of the possible RTP List:294
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(HeartRate,N)
+relation:
+o p 
+o o 
+
+length of the RTP List:91
+length of the possible RTP List:331
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(HeartRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:117
+length of the possible RTP List:316
+*****************
+*****************
+states:
+(RespiratoryRate,N)
+(RespiratoryRate,L)
+relation:
+o b 
+o o 
+
+length of the RTP List:92
+length of the possible RTP List:229
+*****************
+*****************
+states:
+(Temperature,N)
+(RespiratoryRate,L)
+relation:
+o c 
+o o 
+
+length of the RTP List:75
+length of the possible RTP List:220
+*****************
+*****************
+states:
+(PulseOx,N)
+(RespiratoryRate,L)
+relation:
+o c 
+o o 
+
+length of the RTP List:77
+length of the possible RTP List:229
+*****************
+*****************
+states:
+(InfectFlag,1)
+(RespiratoryRate,L)
+relation:
+o b 
+o o 
+
+length of the RTP List:80
+length of the possible RTP List:215
+*****************
+*****************
+states:
+(InflammationFlag,0)
+(RespiratoryRate,L)
+relation:
+o c 
+o o 
+
+length of the RTP List:81
+length of the possible RTP List:187
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(RespiratoryRate,L)
+relation:
+o c 
+o o 
+
+length of the RTP List:94
+length of the possible RTP List:195
+*****************
+*****************
+states:
+(RespiratoryRate,N)
+(RespiratoryRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:122
+length of the possible RTP List:457
+*****************
+*****************
+states:
+(RespiratoryRate,H)
+(RespiratoryRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:68
+length of the possible RTP List:221
+*****************
+*****************
+states:
+(Temperature,N)
+(RespiratoryRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:94
+length of the possible RTP List:409
+*****************
+*****************
+states:
+(Temperature,N)
+(RespiratoryRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:100
+length of the possible RTP List:409
+*****************
+*****************
+states:
+(Temperature,H)
+(RespiratoryRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:70
+length of the possible RTP List:308
+*****************
+*****************
+states:
+(PulseOx,N)
+(RespiratoryRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:105
+length of the possible RTP List:435
+*****************
+*****************
+states:
+(PulseOx,N)
+(RespiratoryRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:102
+length of the possible RTP List:435
+*****************
+*****************
+states:
+(PulseOx,H)
+(RespiratoryRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:68
+length of the possible RTP List:274
+*****************
+*****************
+states:
+(PulseOx,VH)
+(RespiratoryRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:72
+length of the possible RTP List:276
+*****************
+*****************
+states:
+(BUN,N)
+(RespiratoryRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:73
+length of the possible RTP List:254
+*****************
+*****************
+states:
+(WBC,N)
+(RespiratoryRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:76
+length of the possible RTP List:291
+*****************
+*****************
+states:
+(Platelet,N)
+(RespiratoryRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:96
+length of the possible RTP List:289
+*****************
+*****************
+states:
+(Creatinine,N)
+(RespiratoryRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:94
+length of the possible RTP List:309
+*****************
+*****************
+states:
+(MAP,L)
+(RespiratoryRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:68
+length of the possible RTP List:251
+*****************
+*****************
+states:
+(MAP,N)
+(RespiratoryRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:99
+length of the possible RTP List:401
+*****************
+*****************
+states:
+(MAP,N)
+(RespiratoryRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:93
+length of the possible RTP List:401
+*****************
+*****************
+states:
+(InfectFlag,1)
+(RespiratoryRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:116
+length of the possible RTP List:399
+*****************
+*****************
+states:
+(InfectFlag,1)
+(RespiratoryRate,N)
+relation:
+o p 
+o o 
+
+length of the RTP List:87
+length of the possible RTP List:399
+*****************
+*****************
+states:
+(InflammationFlag,0)
+(RespiratoryRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:67
+length of the possible RTP List:335
+*****************
+*****************
+states:
+(InflammationFlag,0)
+(RespiratoryRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:68
+length of the possible RTP List:335
+*****************
+*****************
+states:
+(InflammationFlag,1)
+(RespiratoryRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:69
+length of the possible RTP List:323
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(RespiratoryRate,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:86
+length of the possible RTP List:393
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(RespiratoryRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:73
+length of the possible RTP List:393
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(RespiratoryRate,N)
+relation:
+o p 
+o o 
+
+length of the RTP List:70
+length of the possible RTP List:393
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(RespiratoryRate,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:150
+length of the possible RTP List:370
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(Temperature,L)
+relation:
+o c 
+o o 
+
+length of the RTP List:84
+length of the possible RTP List:136
+*****************
+*****************
+states:
+(Temperature,N)
+(Temperature,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:84
+length of the possible RTP List:381
+*****************
+*****************
+states:
+(Temperature,H)
+(Temperature,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:100
+length of the possible RTP List:252
+*****************
+*****************
+states:
+(PulseOx,N)
+(Temperature,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:74
+length of the possible RTP List:362
+*****************
+*****************
+states:
+(PulseOx,N)
+(Temperature,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:81
+length of the possible RTP List:362
+*****************
+*****************
+states:
+(BUN,N)
+(Temperature,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:70
+length of the possible RTP List:215
+*****************
+*****************
+states:
+(WBC,N)
+(Temperature,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:69
+length of the possible RTP List:239
+*****************
+*****************
+states:
+(Platelet,N)
+(Temperature,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:87
+length of the possible RTP List:251
+*****************
+*****************
+states:
+(Creatinine,N)
+(Temperature,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:90
+length of the possible RTP List:263
+*****************
+*****************
+states:
+(MAP,N)
+(Temperature,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:72
+length of the possible RTP List:340
+*****************
+*****************
+states:
+(MAP,N)
+(Temperature,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:72
+length of the possible RTP List:340
+*****************
+*****************
+states:
+(InfectFlag,1)
+(Temperature,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:80
+length of the possible RTP List:334
+*****************
+*****************
+states:
+(InflammationFlag,0)
+(Temperature,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:73
+length of the possible RTP List:288
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(Temperature,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:82
+length of the possible RTP List:324
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(Temperature,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:138
+length of the possible RTP List:317
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(Temperature,H)
+relation:
+o c 
+o o 
+
+length of the RTP List:96
+length of the possible RTP List:182
+*****************
+*****************
+states:
+(PulseOx,N)
+(PulseOx,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:107
+length of the possible RTP List:419
+*****************
+*****************
+states:
+(PulseOx,H)
+(PulseOx,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:95
+length of the possible RTP List:259
+*****************
+*****************
+states:
+(PulseOx,VH)
+(PulseOx,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:94
+length of the possible RTP List:249
+*****************
+*****************
+states:
+(BUN,N)
+(PulseOx,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:77
+length of the possible RTP List:239
+*****************
+*****************
+states:
+(WBC,N)
+(PulseOx,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:68
+length of the possible RTP List:270
+*****************
+*****************
+states:
+(Platelet,N)
+(PulseOx,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:83
+length of the possible RTP List:267
+*****************
+*****************
+states:
+(Creatinine,N)
+(PulseOx,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:97
+length of the possible RTP List:292
+*****************
+*****************
+states:
+(MAP,N)
+(PulseOx,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:84
+length of the possible RTP List:374
+*****************
+*****************
+states:
+(MAP,N)
+(PulseOx,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:87
+length of the possible RTP List:374
+*****************
+*****************
+states:
+(InfectFlag,1)
+(PulseOx,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:109
+length of the possible RTP List:368
+*****************
+*****************
+states:
+(InfectFlag,1)
+(PulseOx,N)
+relation:
+o p 
+o o 
+
+length of the RTP List:74
+length of the possible RTP List:368
+*****************
+*****************
+states:
+(InflammationFlag,0)
+(PulseOx,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:78
+length of the possible RTP List:304
+*****************
+*****************
+states:
+(InflammationFlag,1)
+(PulseOx,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:77
+length of the possible RTP List:295
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(PulseOx,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:82
+length of the possible RTP List:368
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(PulseOx,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:70
+length of the possible RTP List:368
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(PulseOx,N)
+relation:
+o p 
+o o 
+
+length of the RTP List:74
+length of the possible RTP List:368
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(PulseOx,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:138
+length of the possible RTP List:339
+*****************
+*****************
+states:
+(Creatinine,N)
+(BUN,L)
+relation:
+o c 
+o o 
+
+length of the RTP List:85
+length of the possible RTP List:110
+*****************
+*****************
+states:
+(WBC,N)
+(BUN,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:84
+length of the possible RTP List:147
+*****************
+*****************
+states:
+(Platelet,N)
+(BUN,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:104
+length of the possible RTP List:146
+*****************
+*****************
+states:
+(Creatinine,N)
+(BUN,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:158
+length of the possible RTP List:183
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(BUN,N)
+relation:
+o p 
+o o 
+
+length of the RTP List:138
+length of the possible RTP List:203
+*****************
+*****************
+states:
+(Platelet,N)
+(WBC,L)
+relation:
+o c 
+o o 
+
+length of the RTP List:74
+length of the possible RTP List:91
+*****************
+*****************
+states:
+(Platelet,N)
+(WBC,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:153
+length of the possible RTP List:183
+*****************
+*****************
+states:
+(InflammationFlag,1)
+(WBC,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:74
+length of the possible RTP List:203
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(WBC,N)
+relation:
+o p 
+o o 
+
+length of the RTP List:148
+length of the possible RTP List:230
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(Lactate,N)
+relation:
+o p 
+o o 
+
+length of the RTP List:77
+length of the possible RTP List:99
+*****************
+*****************
+states:
+(InflammationFlag,1)
+(Platelet,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:76
+length of the possible RTP List:206
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(Platelet,N)
+relation:
+o p 
+o o 
+
+length of the RTP List:195
+length of the possible RTP List:258
+*****************
+*****************
+states:
+(InflammationFlag,1)
+(Creatinine,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:86
+length of the possible RTP List:219
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(Creatinine,N)
+relation:
+o p 
+o o 
+
+length of the RTP List:216
+length of the possible RTP List:273
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(MAP,L)
+relation:
+o c 
+o o 
+
+length of the RTP List:73
+length of the possible RTP List:134
+*****************
+*****************
+states:
+(MAP,N)
+(MAP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:93
+length of the possible RTP List:366
+*****************
+*****************
+states:
+(MAP,H)
+(MAP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:84
+length of the possible RTP List:202
+*****************
+*****************
+states:
+(InfectFlag,1)
+(MAP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:89
+length of the possible RTP List:328
+*****************
+*****************
+states:
+(InflammationFlag,0)
+(MAP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:71
+length of the possible RTP List:275
+*****************
+*****************
+states:
+(InflammationFlag,1)
+(MAP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:81
+length of the possible RTP List:263
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(MAP,N)
+relation:
+o b 
+o o 
+
+length of the RTP List:71
+length of the possible RTP List:315
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(MAP,N)
+relation:
+o c 
+o o 
+
+length of the RTP List:131
+length of the possible RTP List:305
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(MAP,H)
+relation:
+o c 
+o o 
+
+length of the RTP List:82
+length of the possible RTP List:149
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(BiliRubin,N)
+relation:
+o p 
+o o 
+
+length of the RTP List:70
+length of the possible RTP List:130
+*****************
+*****************
+states:
+(InflammationFlag,0)
+(InfectFlag,1)
+relation:
+o c 
+o o 
+
+length of the RTP List:96
+length of the possible RTP List:313
+*****************
+*****************
+states:
+(InflammationFlag,1)
+(InfectFlag,1)
+relation:
+o c 
+o o 
+
+length of the RTP List:126
+length of the possible RTP List:303
+*****************
+*****************
+states:
+(InflammationFlag,1)
+(InfectFlag,1)
+relation:
+o p 
+o o 
+
+length of the RTP List:70
+length of the possible RTP List:303
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(InfectFlag,1)
+relation:
+o c 
+o o 
+
+length of the RTP List:96
+length of the possible RTP List:362
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(InfectFlag,1)
+relation:
+o p 
+o o 
+
+length of the RTP List:188
+length of the possible RTP List:362
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(InfectFlag,1)
+relation:
+o c 
+o o 
+
+length of the RTP List:108
+length of the possible RTP List:358
+*****************
+*****************
+states:
+(InflammationFlag,1)
+(InflammationFlag,0)
+relation:
+o b 
+o o 
+
+length of the RTP List:82
+length of the possible RTP List:140
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(InflammationFlag,0)
+relation:
+o p 
+o o 
+
+length of the RTP List:97
+length of the possible RTP List:230
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(InflammationFlag,0)
+relation:
+o c 
+o o 
+
+length of the RTP List:103
+length of the possible RTP List:233
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(InflammationFlag,1)
+relation:
+o p 
+o o 
+
+length of the RTP List:137
+length of the possible RTP List:259
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,NURSE)
+(InflammationFlag,1)
+relation:
+o c 
+o o 
+
+length of the RTP List:68
+length of the possible RTP List:218
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(OrganFailure,1)
+relation:
+o c 
+o o 
+
+length of the RTP List:72
+length of the possible RTP List:200
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(OrganFailure,1)
+relation:
+o p 
+o o 
+
+length of the RTP List:96
+length of the possible RTP List:200
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(CurrentLocationTypeCode,NURSE)
+(SystolicBP,N)
+relation:
+o b b 
+o o c 
+o o o 
+
+length of the RTP List:94
+length of the possible RTP List:100
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(CurrentLocationTypeCode,NURSE)
+(DiastolicBP,N)
+relation:
+o b b 
+o o c 
+o o o 
+
+length of the RTP List:102
+length of the possible RTP List:109
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(CurrentLocationTypeCode,NURSE)
+(HeartRate,L)
+relation:
+o b b 
+o o c 
+o o o 
+
+length of the RTP List:70
+length of the possible RTP List:74
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(CurrentLocationTypeCode,NURSE)
+(HeartRate,N)
+relation:
+o b b 
+o o c 
+o o o 
+
+length of the RTP List:82
+length of the possible RTP List:88
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(CurrentLocationTypeCode,NURSE)
+(RespiratoryRate,L)
+relation:
+o b b 
+o o c 
+o o o 
+
+length of the RTP List:71
+length of the possible RTP List:74
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(CurrentLocationTypeCode,NURSE)
+(RespiratoryRate,N)
+relation:
+o b b 
+o o c 
+o o o 
+
+length of the RTP List:111
+length of the possible RTP List:119
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(CurrentLocationTypeCode,NURSE)
+(Temperature,N)
+relation:
+o b b 
+o o c 
+o o o 
+
+length of the RTP List:101
+length of the possible RTP List:108
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(CurrentLocationTypeCode,NURSE)
+(Temperature,H)
+relation:
+o b b 
+o o c 
+o o o 
+
+length of the RTP List:72
+length of the possible RTP List:76
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(CurrentLocationTypeCode,NURSE)
+(PulseOx,N)
+relation:
+o b b 
+o o c 
+o o o 
+
+length of the RTP List:103
+length of the possible RTP List:111
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(Platelet,N)
+(BUN,N)
+relation:
+o p p 
+o o c 
+o o o 
+
+length of the RTP List:68
+length of the possible RTP List:98
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(Creatinine,N)
+(BUN,N)
+relation:
+o p p 
+o o c 
+o o o 
+
+length of the RTP List:101
+length of the possible RTP List:147
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(Platelet,N)
+(WBC,N)
+relation:
+o p p 
+o o c 
+o o o 
+
+length of the RTP List:93
+length of the possible RTP List:132
+*****************
+*****************
+states:
+(CurrentLocationTypeCode,ED)
+(CurrentLocationTypeCode,NURSE)
+(MAP,N)
+relation:
+o b b 
+o o c 
+o o o 
+
+length of the RTP List:97
+length of the possible RTP List:106
+*****************
